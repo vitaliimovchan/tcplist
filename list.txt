@@ -1,1 +1,17 @@
-https://www.fabrikant.ru/services https://tender.otc.ru/main/sso/Login.aspx?ReturnUrl=%2fmain%2fsso https://www.rts-tender.ru/poisk https://app.rts-tender.ru/auth/sso/login/participant?ReturnUrl=https%3a%2f%2fapp.rts-tender.ru%2fsupplier%2flk%2f&sso=1&code=-5 https://223.rts-tender.ru/supplier/sso/Login.aspx?ReturnUrl=%2fsupplier%2fsso%2f&sso=1&code=-5 https://it2-auth.rts-tender.ru/ https://market-lk.rts-tender.ru/api/common/v1/sso/login/participantCustomer?sso=1&code=-5 https://gz.lot-online.ru/etp_front/ https://catalog.lot-online.ru/index.php?dispatch=rad_auth.login_form https://corplogin.roseltorg.ru/ https://seeyou.roseltorg.ru/ https://dss2.roseltorg.ru/ https://ca.roseltorg.ru/ http://etprf.ru/ http://sale.etprf.ru http://adminestate.etprf.ru https://etpu.ru/
+https://www.fabrikant.ru/services
+https://tender.otc.ru/main/sso/Login.aspx?ReturnUrl=%2fmain%2fsso
+https://www.rts-tender.ru/poisk
+https://app.rts-tender.ru/auth/sso/login/participant?ReturnUrl=https%3a%2f%2fapp.rts-tender.ru%2fsupplier%2flk%2f&sso=1&code=-5
+https://223.rts-tender.ru/supplier/sso/Login.aspx?ReturnUrl=%2fsupplier%2fsso%2f&sso=1&code=-5
+https://it2-auth.rts-tender.ru/
+https://market-lk.rts-tender.ru/api/common/v1/sso/login/participantCustomer?sso=1&code=-5
+https://gz.lot-online.ru/etp_front/
+https://catalog.lot-online.ru/index.php?dispatch=rad_auth.login_form
+https://corplogin.roseltorg.ru/
+https://seeyou.roseltorg.ru/
+https://dss2.roseltorg.ru/
+https://ca.roseltorg.ru/
+http://etprf.ru/
+http://sale.etprf.ru
+http://adminestate.etprf.ru
+https://etpu.ru/
